@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![github-user-contribution](https://github.com/Koshi-46/Koshi-46/assets/55370161/9ab67369-02d5-4b62-bde8-fd443e643182)
 
 
