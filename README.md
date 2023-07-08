@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koshi-46&layout=compact&theme=tokyonight)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishige-shogo&show_icons=true" height="158px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Koshi-46&show_icons=true&theme=tokyonight" height="158px" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
